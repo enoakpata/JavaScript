@@ -1,0 +1,28 @@
+{
+  "name": "js-primer",
+  "version": "1.0.0",
+  "description": "JavaScript and Version Control Primer in NodeJS Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enoakpata/csc202--2022stream1set.git"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node",
+    "Book-examples"
+  ],
+  "author": "Enoabasi Akpata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enoakpata/e.akpatacsc201,git/issues"
+  },
+  "homepage": "https://github.com/enoakpata/e.akpatacsc201,git#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
